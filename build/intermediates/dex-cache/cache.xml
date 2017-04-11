@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\6f4a8e115d68e173336b7a0033f56b52ba9d3e62\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_18f5fdeb75e3e66f028f5e5cf08aea3587ef1891\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1fab9a13c1359931a2a692344d75351a48d49990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\97c671d8746b2d58ee645d3c950902b3f330f254\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_320d8464965b350ac0801ef8d96354cf7aef401e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.1\57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb\rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.1_361ac32106dbea86834ba9b22391400e499a1f7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\ca18c06f5aeaa2245fe45f328afca566b9c0ff1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbc320c79ec3bdac05e0b5651b84c0c5944d712f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\42a80f9ea00c55e02896fa3879f5229c4cb75e0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_549f724fd7ed681150538832be08a85b9fe2da9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56a9ae93efdbd4ae8232768f82def04fbcadeb09">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d8cdbe8fad876e218bd9fc3271b9edc1c5446e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\90c078bad4b21dd5ab0b634b907c7a2346119116\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4b00896216e6efee7daa808b5ac5e12619fcab74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\b8a4d9517ff6bee391323f51614f4f803418350d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76c6a1553f59e5fc3b1ed07772a553ecff6a9497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_bdcfa28d156a2881a33e1311c458a9362c62d744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\42a80f9ea00c55e02896fa3879f5229c4cb75e0b\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c1d857bbfdbc71864871e69d89b59f247754130a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\fe3f18f4a7e53e3ac07a2e1317b205ca704cc561\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2296df8b15888ab2844b7568c3a073eccfbe852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\aebe625773ca567e78e75df863401ac2e21e307a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd5369722737c7b9fea6eef2ffd983dc631ae979\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\6f4a8e115d68e173336b7a0033f56b52ba9d3e62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f012ac87e831c46881b26bbbc702ff4ce7cf68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\8857158aaa63fbc735e664372a3cc163bdc21590\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2adbc5f4e713bd9e056fb4b2641cf924e8fcf94e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\0f6e12f9a927b13d07cdbda7b951c22b8fce5fb8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c39f8a66370bdbe9e4b01418adc38966dd125aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\fe3f18f4a7e53e3ac07a2e1317b205ca704cc561\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2582be1692dbc512ffb21273e4d9c58b016c0d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\90c078bad4b21dd5ab0b634b907c7a2346119116\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fabbd020364eb10b689715f6b58452c8290767c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\8857158aaa63fbc735e664372a3cc163bdc21590\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_def5fbeaad2aa539c818bd4bacd815063362d9ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AhmedKhaled\.android\build-cache\b65a0b02de1712cf9bc1a5df272a735d4fa0a368\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\AhmedKhaled\AndroidStudioProjects\CheeseFinder-starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d1b448db3c40de04c83d02e264c67835dce3f21\classes.dex" />
+    </item>
+
+</items>
